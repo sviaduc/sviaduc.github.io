@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/sviaduc/sviaduc.github.io#readme",
   "dependencies": {
-    "node-sass": "^4.13.0"
+    "node-sass": "^9.0.0"
   }
 }
